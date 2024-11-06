@@ -150,11 +150,3 @@ namespace _01_MainSubjects
         }
     }
 }
-
-
-
-
-
-
-
-//Yazdırma komutları
